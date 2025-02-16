@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Central Park",
+    "type": "Park",
+    "address": "New York, USA",
+    "rating": 4.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Central_Park_New_York_City_New_York_23.jpg",
+    "description": "A large public park in the heart of Manhattan, offering scenic views and recreational activities."
+  },
+  {
+    "id": 2,
+    "name": "Eiffel Tower",
+    "type": "Monument",
+    "address": "Paris, France",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+    "description": "One of the world's most famous landmarks, offering panoramic views of Paris."
+  },
+  {
+    "id": 3,
+    "name": "Louvre Museum",
+    "type": "Museum",
+    "address": "Paris, France",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Louvre_2012_04.jpg",
+    "description": "The world's largest art museum, home to the Mona Lisa and other masterpieces."
+  },
+  {
+    "id": 4,
+    "name": "Golden Gate Bridge",
+    "type": "Monument",
+    "address": "San Francisco, USA",
+    "rating": 4.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg",
+    "description": "A famous suspension bridge connecting San Francisco to Marin County."
+  },
+  {
+    "id": 5,
+    "name": "Disneyland",
+    "type": "Theme Park",
+    "address": "California, USA",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Disneyland_Sleeping_Beauty_Castle.jpg",
+    "description": "A magical amusement park featuring rides, attractions, and Disney characters."
+  },
+  {
+    "id": 6,
+    "name": "Taj Mahal",
+    "type": "Monument",
+    "address": "Agra, India",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Taj_Mahal_2012.jpg",
+    "description": "A white marble mausoleum and UNESCO World Heritage Site, built by Mughal Emperor Shah Jahan."
+  },
+  {
+    "id": 7,
+    "name": "Sydney Opera House",
+    "type": "Monument",
+    "address": "Sydney, Australia",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sydney_Opera_House_Sails.jpg",
+    "description": "An iconic performing arts venue with a unique architectural design."
+  },
+  {
+    "id": 8,
+    "name": "Great Wall of China",
+    "type": "Monument",
+    "address": "China",
+    "rating": 4.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Great_Wall_of_China_at_Jinshanling.jpg",
+    "description": "A historic fortification built to protect China from invasions."
+  },
+  {
+    "id": 9,
+    "name": "Colosseum",
+    "type": "Monument",
+    "address": "Rome, Italy",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+    "description": "An ancient Roman amphitheater, once used for gladiator fights."
+  },
+  {
+    "id": 10,
+    "name": "Burj Khalifa",
+    "type": "Monument",
+    "address": "Dubai, UAE",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Burj_Khalifa.jpg",
+    "description": "The tallest building in the world, offering breathtaking city views."
+  },
+  {
+    "id": 11,
+    "name": "Grand Canyon",
+    "type": "Natural Wonder",
+    "address": "Arizona, USA",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Grand_Canyon_National_Park.jpg",
+    "description": "A stunning natural canyon carved by the Colorado River."
+  },
+  {
+    "id": 12,
+    "name": "Statue of Liberty",
+    "type": "Monument",
+    "address": "New York, USA",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Statue_of_Liberty%2C_NY.jpg",
+    "description": "A symbol of freedom and democracy, gifted by France to the USA."
+  },
+  {
+    "id": 13,
+    "name": "Santorini",
+    "type": "Island",
+    "address": "Greece",
+    "rating": 4.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Santorini_Fira_Oia.jpg",
+    "description": "A picturesque island with whitewashed buildings and stunning sunsets."
+  },
+  {
+    "id": 14,
+    "name": "Niagara Falls",
+    "type": "Natural Wonder",
+    "address": "USA/Canada Border",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Niagara_Falls_from_Skylon_Tower.jpg",
+    "description": "One of the most famous and powerful waterfalls in the world."
+  },
+  {
+    "id": 15,
+    "name": "Machu Picchu",
+    "type": "Ancient Site",
+    "address": "Peru",
+    "rating": 4.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Machu_Picchu%2C_Peru.jpg",
+    "description": "An ancient Incan city located high in the Andes Mountains."
+  },
+  {
+    "id": 16,
+    "name": "Tokyo Tower",
+    "type": "Monument",
+    "address": "Tokyo, Japan",
+    "rating": 4.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tokyo_Tower.jpg",
+    "description": "A communications and observation tower offering stunning views of Tokyo."
+  }
+]
